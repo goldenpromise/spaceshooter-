@@ -6,24 +6,24 @@ In this game, the user flys an aircraft and shoots asteroids while also dodging 
 Introduction
 ------------
 
-The user will utilize the arrow keys of the keyboard in order to move the aircraft. The user will also use the mouse to shoot at the tumbling asteroids. The objective of the game is to make the aircraft avoid getting hit by asteroids by wither dodging them or destroying them. Each asteroid destroyed gives the user points. If the aircraft gets detroyed, a message will appear on the creen that says "Restart."
+The user will utilize the arrow keys of the keyboard in order to move the aircraft. The user will also use the mouse to shoot at the tumbling asteroids. The objective of the game is to make the aircraft avoid getting hit by asteroids by wither dodging them or destroying them. Each asteroid destroyed gives the user points. If the aircraft gets detroyed, a two messages will appear on the screen: one that says "Restart" and another that says "Game Over!"
 
 Screenshots
 -------------
 
-![Alt  text](https://github.com/goldenpromise/spaceshooter-/blob/master/shots/Capture.PNG "Game Environment")
+![Alt  text](https://github.com/goldenpromise/spaceshooter-/blob/master/shots/Capture.PNG "Game Over Screen")
 <br>
 
-![Alt  text](https://github.com/goldenpromise/spaceshooter-/blob/master/shots/Capture2.PNG "Top View of the Game Environment")
+![Alt  text](https://github.com/goldenpromise/spaceshooter-/blob/master/shots/Capture2.PNG "Asteroid")
 <br>
 
-![Alt  text](https://github.com/goldenpromise/spaceshooter-/blob/master/shots/Capture3.PNG "The Ball")
+![Alt  text](https://github.com/goldenpromise/spaceshooter-/blob/master/shots/Capture3.PNG "Aircraft Explosion")
 <br>
 
-![Alt  text](https://github.com/goldenpromise/spaceshooter-/blob/master/shots/Captures.PNG "The Collectable Object")
+![Alt  text](https://github.com/goldenpromise/spaceshooter-/blob/master/shots/Captures.PNG "Aircraft")
 <br>
 
-![Alt  text](https://github.com/goldenpromise/spaceshooter-/blob/master/shots/Capturez.PNG "The Collectable Object")
+![Alt  text](https://github.com/goldenpromise/spaceshooter-/blob/master/shots/Capturez.PNG "Aircraft with Tumbling Asteroids")
 <br>
 
 Getting Started
